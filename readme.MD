@@ -3,6 +3,6 @@ This spreadsheet does not replace the advice and recommendations from your healt
 
 The spreadsheet will calculate the rapid insulin dose, and also has a logging function as well.
 
-To download the file, click "RapidInsulinCalcLog.xlsm" in this directory, then click the "Download" button.
+To download the file, click "RapidDoseInsulinCalcLog.xlsm" in this directory, then click the "Download" button.
 
 After loading the file in Excel, click "Yes" to enable Macros.
